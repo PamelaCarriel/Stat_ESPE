@@ -2,7 +2,7 @@
 
 ## Acerca de este repositorio
 
-¡Hola! Soy **Pamela Jesabel Carriel Mier**, estudiante de la **Universidad de las Fuerzas Armadas ESPE**. Este repositorio está dedicado a la materia de **Estadística**. Aquí encontrarás todos los códigos y scripts que voy desarrollando a lo largo del curso.
+¡Hola! Soy **Pamela Jesabel Carriel Mier**, estudiante de la **Universidad de las Fuerzas Armadas ESPE**. Este repositorio está dedicado a la materia de **Estadística**. Aquí se encontrará todos los códigos y scripts que voy desarrollando a lo largo del curso.
 
 ## Propósito
 
